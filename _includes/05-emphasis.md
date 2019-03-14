@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I work with **PHP**, **Symfony framework**. I have also worked briefly grading *javascript* assignments, and studied *ReactJS*. 
